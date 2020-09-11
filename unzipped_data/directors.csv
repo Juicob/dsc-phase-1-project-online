@@ -1,0 +1,76 @@
+name,rating,picture,rank
+James Cameron,8.75,"https://m.media-amazon.com/images/M/MV5BMjI0MjMzOTg2MF5BMl5BanBnXkFtZTcwMTM3NjQxMw@@._V1_UX140_CR0,0,140,209_AL_.jpg",1
+David Fincher,8.6,"https://m.media-amazon.com/images/M/MV5BMTc1NDkwMTQ2MF5BMl5BanBnXkFtZTcwMzY0ODkyMg@@._V1_UX140_CR0,0,140,209_AL_.jpg",2
+Satoshi Kon,8.5,"https://m.media-amazon.com/images/M/MV5BZGZjNzFmY2YtMzNlNi00YThlLWEyNjAtYTI4ZTA2YzcyNGY5XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UY209_CR116,0,140,209_AL_.jpg",3
+Quentin Tarantino,8.4,"https://m.media-amazon.com/images/M/MV5BMTgyMjI3ODA3Nl5BMl5BanBnXkFtZTcwNzY2MDYxOQ@@._V1_UX140_CR0,0,140,209_AL_.jpg",4
+Francis Ford Coppola,8.33,"https://m.media-amazon.com/images/M/MV5BMTM5NDU3OTgyNV5BMl5BanBnXkFtZTcwMzQxODA0NA@@._V1_UX140_CR0,0,140,209_AL_.jpg",5
+Byron Howard,8,"https://m.media-amazon.com/images/M/MV5BMTQ5MTUzNDYxM15BMl5BanBnXkFtZTcwMDgyMzA4MQ@@._V1_UY209_CR86,0,140,209_AL_.jpg",6
+David Lynch,8,"https://m.media-amazon.com/images/M/MV5BMTQ1MTY2MTY2Nl5BMl5BanBnXkFtZTcwMDg1ODYwNA@@._V1_UY209_CR14,0,140,209_AL_.jpg",7
+Chan-wook Park,8,"https://m.media-amazon.com/images/M/MV5BMTgyODk3MTU5OV5BMl5BanBnXkFtZTcwMTc3NjcyMQ@@._V1_UY209_CR10,0,140,209_AL_.jpg",8
+Martin Scorsese,8,"https://m.media-amazon.com/images/M/MV5BMTcyNDA4Nzk3N15BMl5BanBnXkFtZTcwNDYzMjMxMw@@._V1_UX140_CR0,0,140,209_AL_.jpg",9
+Edgar Wright,8,"https://m.media-amazon.com/images/M/MV5BMTMxMjgyMjQ4NF5BMl5BanBnXkFtZTcwMTU0ODk2Mw@@._V1_UY209_CR4,0,140,209_AL_.jpg",10
+Peter Jackson,7.8,"https://m.media-amazon.com/images/M/MV5BMTY1MzQ3NjA2OV5BMl5BanBnXkFtZTcwNTExOTA5OA@@._V1_UY209_CR6,0,140,209_AL_.jpg",11
+Christopher Nolan,7.78,"https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_UY209_CR5,0,140,209_AL_.jpg",12
+Robert Zemeckis,7.75,"https://m.media-amazon.com/images/M/MV5BMTgyMTMzMDUyNl5BMl5BanBnXkFtZTcwODA0ODMyMw@@._V1_UX140_CR0,0,140,209_AL_.jpg",13
+Alejandro G. Iñárritu,7.67,"https://m.media-amazon.com/images/M/MV5BMTcwNDMyOTMzMl5BMl5BanBnXkFtZTcwODQ0OTE0Ng@@._V1_UX140_CR0,0,140,209_AL_.jpg",14
+Brad Bird,7.6,"https://m.media-amazon.com/images/M/MV5BMTk5Mzg1ODcyNV5BMl5BanBnXkFtZTcwMjU1ODkyMw@@._V1_UY209_CR9,0,140,209_AL_.jpg",15
+Lee Unkrich,7.6,"https://m.media-amazon.com/images/M/MV5BMjA1ODE2NTEzN15BMl5BanBnXkFtZTYwNzUzODY2._V1_UY209_CR4,0,140,209_AL_.jpg",16
+Andrew Adamson,7.5,"https://m.media-amazon.com/images/M/MV5BOGU4OTY4MzYtMzQzMC00Yjc3LTk1ZjctNDRiMzFjMjdkZDBmXkEyXkFqcGdeQXVyMTY5NzUwOQ@@._V1_UY209_CR17,0,140,209_AL_.jpg",17
+Ron Clements,7.4,"https://m.media-amazon.com/images/M/MV5BMTM0MDAxMjU4N15BMl5BanBnXkFtZTcwMzQ1MjcxMw@@._V1_UY209_CR86,0,140,209_AL_.jpg",18
+John Musker,7.4,"https://m.media-amazon.com/images/M/MV5BMzU2NjUyMTQ2N15BMl5BanBnXkFtZTcwNDc1NDM3Mg@@._V1_UX140_CR0,0,140,209_AL_.jpg",19
+Guy Ritchie,7.33,"https://m.media-amazon.com/images/M/MV5BMTM2NDkxMTcxMl5BMl5BanBnXkFtZTcwNTMyNjI5MQ@@._V1_UY209_CR6,0,140,209_AL_.jpg",20
+Andrew Stanton,7.33,"https://m.media-amazon.com/images/M/MV5BMTY0MTIyMzAzNF5BMl5BanBnXkFtZTcwNDUzNjQ0Nw@@._V1_UY209_CR14,0,140,209_AL_.jpg",21
+Gore Verbinski,7.33,"https://m.media-amazon.com/images/M/MV5BMTY5ODAzNzg5OV5BMl5BanBnXkFtZTcwOTkwMjIwMQ@@._V1_UY209_CR11,0,140,209_AL_.jpg",22
+Kazuya Tsurumaki,7.25,https://m.media-amazon.com/images/G/01/imdb/images/nopicture/medium/name-2135195744._CB466677935_.png,23
+Hideaki Anno,7.2,"https://m.media-amazon.com/images/M/MV5BZjUxZDQ4ZWItYTFiMS00MTdhLWI5YTEtZjViMjM1NDFiZDVkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UX140_CR0,0,140,209_AL_.jpg",24
+Makoto Shinkai,7.2,"https://m.media-amazon.com/images/M/MV5BN2IxMTg5YmEtMWQ5NC00NDQyLTliOWQtMjkxYTU5NDFmMmQyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR4,0,140,209_AL_.jpg",25
+Steven Spielberg,7.2,"https://m.media-amazon.com/images/M/MV5BMTY1NjAzNzE1MV5BMl5BanBnXkFtZTYwNTk0ODc0._V1_UX140_CR0,0,140,209_AL_.jpg",26
+Tim Burton,7,"https://m.media-amazon.com/images/M/MV5BMTcwNTc4NTMzOF5BMl5BanBnXkFtZTYwMzc5ODYz._V1_UX140_CR0,0,140,209_AL_.jpg",27
+Guillermo del Toro,7,"https://m.media-amazon.com/images/M/MV5BOTUzNTYwNjE0N15BMl5BanBnXkFtZTcwMjc0ODM1Mw@@._V1_UY209_CR13,0,140,209_AL_.jpg",28
+Sam Mendes,7,"https://m.media-amazon.com/images/M/MV5BNTgzODMyMDUwNF5BMl5BanBnXkFtZTcwNzEyMjAyMg@@._V1_UX140_CR0,0,140,209_AL_.jpg",29
+Jay Oliva,"7
+1.","https://m.media-amazon.com/images/M/MV5BNzEzNDU0MzI3OV5BMl5BanBnXkFtZTgwMjMwMDM2MDE@._V1_UY209_CR42,0,140,209_AL_.jpg",30
+Matthew Vaughn,7,"https://m.media-amazon.com/images/M/MV5BMTQyOTc5NzA0M15BMl5BanBnXkFtZTYwODQ2MjYz._V1_UX140_CR0,0,140,209_AL_.jpg",31
+Chris Williams,7,"https://m.media-amazon.com/images/M/MV5BMTcwMDM4NzM3OF5BMl5BanBnXkFtZTcwOTYwNzkyMg@@._V1_UY209_CR25,0,140,209_AL_.jpg",32
+James Wan,6.86,"https://m.media-amazon.com/images/M/MV5BMTY5NzExMTQ5N15BMl5BanBnXkFtZTcwNjY1NDQzOQ@@._V1_UY209_CR38,0,140,209_AL_.jpg",33
+Woody Allen,6.67,"https://m.media-amazon.com/images/M/MV5BMTI1MjU3MTI2MF5BMl5BanBnXkFtZTcwMDgxNTE4MQ@@._V1_UY209_CR1,0,140,209_AL_.jpg",34
+Kenneth Branagh,6.67,"https://m.media-amazon.com/images/M/MV5BMjI0NTQ4Mjk5Ml5BMl5BanBnXkFtZTcwMDc1NjkzNw@@._V1_UY209_CR3,0,140,209_AL_.jpg",35
+Masayuki,6.67,https://m.media-amazon.com/images/G/01/imdb/images/nopicture/medium/name-2135195744._CB466677935_.png,36
+Sam Raimi,6.67,"https://m.media-amazon.com/images/M/MV5BODQ0NjI0NzkzMV5BMl5BanBnXkFtZTYwMDc0ODk1._V1_UY209_CR6,0,140,209_AL_.jpg",37
+Chad Stahelski,6.67,"https://m.media-amazon.com/images/M/MV5BNjgwNzc0NTc2Nl5BMl5BanBnXkFtZTgwMjM0NzEzMDI@._V1_UX140_CR0,0,140,209_AL_.jpg",38
+Ridley Scott,6.57,"https://m.media-amazon.com/images/M/MV5BMGJkOGM5OWEtNDYxMy00Njg4LWExNjAtY2ZlNWNlNzVhNDk4XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_UX140_CR0,0,140,209_AL_.jpg",39
+Tomasz Baginski,6.33,"https://m.media-amazon.com/images/M/MV5BM2ExYWRiZTMtMzg2Zi00NWJhLWE5ZDItNDE1NWJhODZiM2I5XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_UY209_CR66,0,140,209_AL_.jpg",40
+Chris Buck,6.33,"https://m.media-amazon.com/images/M/MV5BMTQ1ODk1Njg5M15BMl5BanBnXkFtZTcwMTIxNzUzOA@@._V1_UY209_CR11,0,140,209_AL_.jpg",41
+Marc Forster,6.33,"https://m.media-amazon.com/images/M/MV5BMTM5ODQxMDcxNV5BMl5BanBnXkFtZTcwNjg5NzE1OQ@@._V1_UY209_CR25,0,140,209_AL_.jpg",42
+Bryan Singer,6.33,"https://m.media-amazon.com/images/M/MV5BMTMwMzQ0OTgzNF5BMl5BanBnXkFtZTcwMjExNzAyMg@@._V1_UX140_CR0,0,140,209_AL_.jpg",43
+Conrad Vernon,6.33,"https://m.media-amazon.com/images/M/MV5BMTY3NjM5NjMxNF5BMl5BanBnXkFtZTcwMTc1ODMxOA@@._V1_UX140_CR0,0,140,209_AL_.jpg",44
+Lana Wachowski,6.33,"https://m.media-amazon.com/images/M/MV5BMjEzMTc2MDQ5OV5BMl5BanBnXkFtZTcwNjkzNDY0OA@@._V1_UX140_CR0,0,140,209_AL_.jpg",45
+Lilly Wachowski,6.33,"https://m.media-amazon.com/images/M/MV5BMTU1Mjc1MjkzNV5BMl5BanBnXkFtZTgwOTc1NDQ1ODE@._V1_UX140_CR0,0,140,209_AL_.jpg",46
+George Lucas,6.25,"https://m.media-amazon.com/images/M/MV5BMTA0Mjc0NzExNzBeQTJeQWpwZ15BbWU3MDEzMzQ3MDI@._V1_UY209_CR1,0,140,209_AL_.jpg",47
+Luc Besson,6.2,"https://m.media-amazon.com/images/M/MV5BMTAwNzE4Njg0NTFeQTJeQWpwZ15BbWU3MDk0MDEyMDc@._V1_UY209_CR3,0,140,209_AL_.jpg",48
+Andrzej Wajda,6.2,"https://m.media-amazon.com/images/M/MV5BMjA2ODE4NTMyMV5BMl5BanBnXkFtZTcwMTM4Njg4OA@@._V1_UY209_CR4,0,140,209_AL_.jpg",49
+Eric Darnell,6,"https://m.media-amazon.com/images/M/MV5BMTU5NDI2MzI0NV5BMl5BanBnXkFtZTcwMTAxMzgwOA@@._V1_UX140_CR0,0,140,209_AL_.jpg",50
+Ron Howard,6,"https://m.media-amazon.com/images/M/MV5BMTkzMDczMjUxNF5BMl5BanBnXkFtZTcwODY1Njk5Mg@@._V1_UX140_CR0,0,140,209_AL_.jpg",51
+John Lasseter,6,"https://m.media-amazon.com/images/M/MV5BMTQ5NTczNjE5MV5BMl5BanBnXkFtZTcwMTA1MTQ3Mg@@._V1_UY209_CR11,0,140,209_AL_.jpg",52
+Juliusz Machulski,6,"https://m.media-amazon.com/images/M/MV5BMWE5NzY2OGYtODAwZS00ODMzLTliYWItNDFhYTZiMjRjMzUwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_UY209_CR87,0,140,209_AL_.jpg",53
+Tom McGrath,6,"https://m.media-amazon.com/images/M/MV5BNzU4NjU0MDEyNF5BMl5BanBnXkFtZTcwMjY0MzUwNA@@._V1_UX140_CR0,0,140,209_AL_.jpg",54
+Kazuki Akane,5.8,https://m.media-amazon.com/images/G/01/imdb/images/nopicture/medium/name-2135195744._CB466677935_.png,55
+Martin Campbell,5.67,"https://m.media-amazon.com/images/M/MV5BMTYwODg0MjMwMV5BMl5BanBnXkFtZTYwMzY5NTU0._V1_UX140_CR0,0,140,209_AL_.jpg",56
+Doug Liman,5.67,"https://m.media-amazon.com/images/M/MV5BODk4MjIwNjU5OF5BMl5BanBnXkFtZTcwODU4Njk1Mw@@._V1_UY209_CR7,0,140,209_AL_.jpg",57
+Carlos Saldanha,5.67,"https://m.media-amazon.com/images/M/MV5BMTk5NDA3MjQ5NF5BMl5BanBnXkFtZTYwMjQ0MTIz._V1_UX140_CR0,0,140,209_AL_.jpg",58
+Stephen Sommers,5.67,"https://m.media-amazon.com/images/M/MV5BMTYzMzc3ODc1N15BMl5BanBnXkFtZTYwNjI1NTY0._V1_UX140_CR0,0,140,209_AL_.jpg",59
+Ethan Spaulding,5.67,https://m.media-amazon.com/images/G/01/imdb/images/nopicture/medium/name-2135195744._CB466677935_.png,60
+David Yates,5.67,"https://m.media-amazon.com/images/M/MV5BMTY2NTU4NjY4M15BMl5BanBnXkFtZTYwNjIxOTI1._V1_UY209_CR7,0,140,209_AL_.jpg",61
+Jon Favreau,5.5,"https://m.media-amazon.com/images/M/MV5BNjcwNzg4MjktNDNlMC00M2U1LWJmMjgtZTVkMmI4MDI2MTVmXkEyXkFqcGdeQXVyMjI4MDI0NTM@._V1_UY209_CR8,0,140,209_AL_.jpg",62
+Chris Columbus,5.5,"https://m.media-amazon.com/images/M/MV5BMTY2MTYzNzUyNl5BMl5BanBnXkFtZTYwMDI0NzA0._V1_UY209_CR2,0,140,209_AL_.jpg",63
+M. Night Shyamalan,5.5,"https://m.media-amazon.com/images/M/MV5BMTczMTA5OTMxMl5BMl5BanBnXkFtZTcwMDA4NDg1Mw@@._V1_UY209_CR87,0,140,209_AL_.jpg",64
+Sam Liu,5.4,"https://m.media-amazon.com/images/M/MV5BMWViMTIyMWEtNGQ4Ny00OGQwLTllMmUtOThjYjk5MzYwNjViXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX140_CR0,0,140,209_AL_.jpg",65
+Shawn Levy,5.33,"https://m.media-amazon.com/images/M/MV5BNTkyNjk4MTM0NF5BMl5BanBnXkFtZTcwNTA4MTQ5Mw@@._V1_UY209_CR87,0,140,209_AL_.jpg",66
+J.J. Abrams,5,"https://m.media-amazon.com/images/M/MV5BMTM4MTE0NTkzMV5BMl5BanBnXkFtZTcwODEwNDU0OQ@@._V1_UX140_CR0,0,140,209_AL_.jpg",67
+Zack Snyder,4.83,"https://m.media-amazon.com/images/M/MV5BMTMzMjUyNjk1MV5BMl5BanBnXkFtZTcwMDc2Mzk3NA@@._V1_UY209_CR8,0,140,209_AL_.jpg",68
+Michael Bay,4.67,"https://m.media-amazon.com/images/M/MV5BMTc2NzcyMDU5NV5BMl5BanBnXkFtZTcwODc1OTM0NA@@._V1_UY209_CR5,0,140,209_AL_.jpg",69
+Darren Lynn Bousman,4.67,"https://m.media-amazon.com/images/M/MV5BMTQ1NTM5OTQ4Nl5BMl5BanBnXkFtZTcwMDE4OTQwNA@@._V1_UY209_CR21,0,140,209_AL_.jpg",70
+Robert Rodriguez,4.6,"https://m.media-amazon.com/images/M/MV5BMTc0NDg4ODAwNF5BMl5BanBnXkFtZTgwMTIxNTA0MjE@._V1_UX140_CR0,0,140,209_AL_.jpg",71
+Rob Letterman,4.33,"https://m.media-amazon.com/images/M/MV5BMTkxMDA0MDMyMF5BMl5BanBnXkFtZTcwMjkwNzMzOA@@._V1_UY209_CR9,0,140,209_AL_.jpg",72
+Roland Emmerich,4.17,"https://m.media-amazon.com/images/M/MV5BMTgyMzk0NTkyOF5BMl5BanBnXkFtZTcwNDcyMDgzOQ@@._V1_UY209_CR116,0,140,209_AL_.jpg",73
+Patryk Vega,3.5,"https://m.media-amazon.com/images/M/MV5BNzk0ZTljOTQtMTViNS00NmU2LTliODEtYmI5YzNiMDgwNjMwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_UX140_CR0,0,140,209_AL_.jpg",74
